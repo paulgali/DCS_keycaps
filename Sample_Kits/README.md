@@ -9,7 +9,7 @@ Each cap has altered properties under alphas and mods
 - Cap side
 - Cap top
 
-It is up to you to texture these however you wish. FBX was not playing nice so I reccomend using .obj (as uploaded)
+*It is up to you to texture these however you wish. FBX was not playing nice so I reccomend using .obj (as uploaded)*
 
 ### Updates: ###
 

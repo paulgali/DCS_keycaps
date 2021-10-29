@@ -18,3 +18,5 @@ Each cap has altered properties under alphas and mods
 - Added NorDE kit
 
 ![Template](https://github.com/paulgali/DCS_keycaps/blob/master/Sample_Kits/template.png)
+
+![Template (easier to see)](https://github.com/paulgali/DCS_keycaps/blob/master/Sample_Kits/template_base.png)

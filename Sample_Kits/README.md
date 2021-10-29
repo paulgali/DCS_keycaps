@@ -10,4 +10,4 @@ Modifiers are using text+icon, as is typical SP and will be used in my own perso
 - Uploaded main file
 - Added NorDE kit
 
-![Template](https://github.com/paulgali/DCS_keycaps/Sample_Kits/master/images/template.png)
+![Template](https://github.com/paulgali/DCS_keycaps/blob/master/Sample_Kits/template.png)

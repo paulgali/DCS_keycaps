@@ -1,4 +1,4 @@
-# DCS Keycaps
+# Paul's Pre-Bundled DCS kitting
 
 3D kit with the majority of caps from Fooblitzky's base branch.
 

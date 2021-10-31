@@ -1,8 +1,8 @@
 # Paul's Pre-Bundled DCS kitting
 
-3D kit with the majority of caps from Fooblitzky's base branch.
+*#bababaul#0089 on discord*
 
-Modifiers are using text+icon, as is typical SP and will be used in my own personal sets
+3D kit with the majority of caps from Fooblitzky's base branch. Modifiers are using text+icon, as is typical SP and will be used in my own personal sets
 
 Each cap has altered properties under alphas and mods
 - Legend 

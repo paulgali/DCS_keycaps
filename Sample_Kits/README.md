@@ -19,4 +19,6 @@ Each cap has altered properties under alphas and mods
 
 ![Template](https://github.com/paulgali/DCS_keycaps/blob/master/Sample_Kits/images/template.png)
 
+A 10 second render just to showcase - nothing special here with textures, but it works
+
 ![Sample Render](https://github.com/paulgali/DCS_keycaps/blob/master/Sample_Kits/images/sample.png)

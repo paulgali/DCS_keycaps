@@ -1,4 +1,4 @@
-# Paul's Pre-Bundled DCS kitting
+# Paul's Pre-Bundled DCS kitting. Please credit Fooblitzky and me if you are using these
 
 *#bababaul#0089 on discord*
 

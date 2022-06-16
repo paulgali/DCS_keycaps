@@ -6,6 +6,19 @@ Blank DCS and Gorton Modified Legends (the most common) are available in STEP an
 
 ### Updates: ###
 
+#### April 30th, 2022: ####
+Row 1: Added short 2u <em>Backspace</em> icon<br/>
+Row 2: Added short 1.5u and 1.75u <em>Backspace</em> icons<br/>
+Row 3: Added Icon+Text <em>Capslock</em>, narrow lock icons, tweaked wide icons; 1.75u normal and stepped. <br/>
+Row 4: Added <em>Windows Menu</em> icon, <em>Windows</em> icon, <em>star</em> icon, <em>diamond</em> icon; 1.25u and 1u versions.<br/>
+
+#### April 9th, 2022: ####
+Added extra large icons: <em>Enter</em> (row 3), <em>Tab</em> (row 2), and <em>Shift</em> (row 4) legends.<br/>
+Added Row 1 <em>Equals</em> legend.<br/>
+Tweaked row 3 <em>PgUp</em> legend.<br/>
+Tweaked row 4 wide <em>Shift</em> legends.<br/>
+
+
 #### October 15th, 2021: ####
 Added a selection of Norde/International legend keycaps and some for 40% keyboards. 
 Added R1-R4 relegendable keycaps. (These are just approximate until I have samples on hand).
